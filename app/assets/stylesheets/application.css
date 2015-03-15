@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+
+html {
+  
+  font-family: "Times New Roman", Times, serif;
+
+
+}
+
+table, th, td {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
